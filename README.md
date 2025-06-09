@@ -14,13 +14,16 @@ CivicSync is a web-based civic engagement platform that empowers citizens to rep
 📅 Event Calendar – View upcoming community activities and government events
 📍 Nearby Help Services – Find local plumbers, hospitals, electricians, etc.
 📊 Live Status Dashboard – Real-time data on active and resolved issues
+
 🔧 Tech Stack
+
 Tech	Usage
 HTML/CSS	Structure & basic styling
 JavaScript	Dynamic interactivity
 Leaflet.js	Interactive maps and location pins
 TailwindCSS	Utility-first responsive design
 Vite / Bolt AI	Rapid frontend development and builds
+
 🛠️ How to Run Locally
 # Step 1: Install dependencies
 npm install
